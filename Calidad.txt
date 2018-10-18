@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 Ricardo Zaldivar
 nayely
+=======
+nayely 
+maldonado
+DIDIER BLANCO ROBLES SU CREADOR TODO PODEROSO
+>>>>>>> bd338af507b71bb2a1e1c719ae08b6e81e991a80
